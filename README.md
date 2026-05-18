@@ -32,7 +32,7 @@ The PHP project was successfully executed using localhost.
 ## Run Project
 Open browser and use:
 
-http://localhost/task1
+http://localhost/postsphere/task1
 
 ## Author
 Neha Sri
