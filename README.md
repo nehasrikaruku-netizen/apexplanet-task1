@@ -31,8 +31,7 @@ The PHP project was successfully executed using localhost.
 
 ## Run Project
 Open browser and use:
-
-http://localhost/postsphere/task1
+http://localhost/expense_tracker/task1/index.php
 
 ## Author
 Neha Sri
